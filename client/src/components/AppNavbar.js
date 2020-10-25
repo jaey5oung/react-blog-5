@@ -9,7 +9,7 @@ const AppNavbar = () => {
       <Navbar color="dark" dark expand="lg" className="sticky-top">
         <Container>
           <Link to="/" className="text-white text-decoration-none">
-            Side Project's Blog(재영 블로그)
+            Side Project's Blog
           </Link>
           <NavbarToggler />
           <Collapse isOpen={true} navbar>
